@@ -1,0 +1,22 @@
+.site-contents {
+  overflow:hidden;
+  display:flex;
+  flex-direction:column;
+  justify-content:;
+  align-content:space-between;
+}
+
+h1 {
+  font-size:4rem;
+  text-align:center;
+  margin-bottom:150px;
+}
+
+button {
+  height:4rem;
+  line-height:4rem;
+  margin:5px 0;
+  border-radius:10px;
+  font-size:4rem;
+  font-weight:600;
+}
